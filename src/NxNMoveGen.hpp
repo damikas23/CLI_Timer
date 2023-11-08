@@ -1,3 +1,4 @@
+//Thanks 1codealot
 /*
 This code is here to deprecate the original Scrambles.hpp and stringCleanup.hpp
 */
@@ -107,3 +108,4 @@ std::string getRepresentation(puzzle_move *pMove)
 
     return finalMove;
 }
+//Thanks 1codealot
